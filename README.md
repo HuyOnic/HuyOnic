@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm HuyOnic</h1>
 <h3 align="center">A Machine Learning Engineer</h3>
-
+```diff
+- text in red
 <h3 align="left">Connect with me:</h3>
+```
 <p align="left">
 </p>
 
