@@ -3,7 +3,7 @@
 ```diff
 - text in red
 <h3 align="left">Connect with me:</h3>
-<span style="color:red">Content</span>
+<span style="color:red;">Content</span>
 ```
 <p align="left">
 </p>
