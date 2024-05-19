@@ -1,9 +1,14 @@
 <h1 align="center">Welcome to my page</h1>
 <p align="left">My name is Huy. I am a Machine Learning Engineer. I am Interested in the following topics: Deep Learning in NLP, Computer Vision and Reinforcement Learning.</p> <br>
-
+<p>
+    
     <img src="https://github-readme-stats.vercel.app/api?username=HuyOnic&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=contribs,prs"/>
-
+</p>
+<p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=pie&theme=dark"/>
+    
+</p>
+
   
 
 <a href="https://github.com/HuyOnic/CoffeShop">
