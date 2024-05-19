@@ -1,3 +1,6 @@
+## Welcome to my page
+My name is Huy. I am a Machine Learning Engineer. I am Interested in the following topics: Deep Learning in NLP, Computer Vision and Reinforcement Learning. <br>
+
 ![HuyOnic Github Stats](https://github-readme-stats.vercel.app/api?username=HuyOnic&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=contribs,prs)
 <a href="https://github.com/HuyOnic/CoffeShop">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=CoffeShop&theme=dracula"/>
