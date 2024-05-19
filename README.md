@@ -2,7 +2,7 @@
 <p align="left">My name is Huy. I am a Machine Learning Engineer. I am Interested in the following topics: Deep Learning in NLP, Computer Vision and Reinforcement Learning.</p> <br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=HuyOnic&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=contribs,prs"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&theme=dark&card_width:500"/>
 </div>
 
 <a href="https://github.com/HuyOnic/CoffeShop">
