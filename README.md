@@ -1,3 +1,5 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=CoffeShop)](https://github.com/anuraghazra/github-readme-stats)
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=HuyOnic&show_icons=true&theme=dracula"
@@ -9,4 +11,3 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=HuyOnic&show_icons=true" />
 </picture>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=CoffeShop)](https://github.com/anuraghazra/github-readme-stats)
