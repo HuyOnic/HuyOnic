@@ -4,7 +4,6 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=HuyOnic&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=contribs,prs"/>
 </p>
-![HuyOnic Github Stats](https://github-readme-stats.vercel.app/api?username=HuyOnic&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=contribs,prs)
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=pie&theme=dark"/>
 </p>
