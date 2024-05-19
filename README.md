@@ -4,11 +4,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=HuyOnic&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=contribs,prs"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&bg_color=30,904e95,e96443&hide_title=true&text_color=fff"/>
 </div>
-
+<h2 align=center>Side Project</h2>
 <a href="https://github.com/HuyOnic/CoffeShop">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=CoffeShop&theme=dracula"/>
 </a>
 <a href="https://github.com/HuyOnic/VietcombankBill">
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=VietcombankBill)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=VietcombankBill"/>
 </a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=pie&theme=dark)
