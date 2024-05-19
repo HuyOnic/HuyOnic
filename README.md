@@ -16,6 +16,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=CoffeShop&theme=dracula"/>
     </a>
     <a href="https://github.com/HuyOnic/HousePrice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=HousePrice&theme=dracula"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=HousePrice&theme=merko"/>
     </a>
 </div>
