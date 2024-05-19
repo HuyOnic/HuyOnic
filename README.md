@@ -6,8 +6,8 @@
 </div>
 <h2 align=center>Side Project</h2>
 <a href="https://github.com/HuyOnic/CoffeShop">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=CoffeShop&theme=dracula"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=CoffeShop&theme=dracula"/>
 </a>
 <a href="https://github.com/HuyOnic/VietcombankBill">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=VietcombankBill"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=VietcombankBill"/>
 </a>
