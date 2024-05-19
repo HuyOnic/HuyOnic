@@ -10,7 +10,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=Web-Detect-Object&theme=cobalt"/>
     </a>
     <a href="https://github.com/HuyOnic/VietcombankBill">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=VietcombankBill"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=VietcombankBill&theme=gruvbox"/>
     </a>
     <a href="https://github.com/HuyOnic/CoffeShop">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=CoffeShop&theme=dracula"/>
