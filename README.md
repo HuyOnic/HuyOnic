@@ -14,7 +14,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=HuyOnic&show_icons=true&repo=CoffeShop&theme=merko"
+    srcset="https://github-readme-stats.vercel.app/api?username=HuyOnic&repo=CoffeShop&theme=merko&show_icons=true"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=HuyOnic&show_icons=true" />
 </picture>
