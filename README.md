@@ -5,12 +5,17 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&bg_color=30,904e95,e96443&hide_title=true&text_color=fff"/>
 </div>
 <h2 align=center>Side Project</h2>
-<a href="https://github.com/HuyOnic/CoffeShop">
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=CoffeShop&theme=dracula"/>
-</a>
-<a href="https://github.com/HuyOnic/VietcombankBill">
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=VietcombankBill"/>
-</a>
-<a href="https://github.com/HuyOnic/CoffeShop">
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=CoffeShop&theme=dracula"/>
-</a>
+<div align="center">
+    <a href="https://github.com/HuyOnic/CoffeShop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=CoffeShop&theme=dracula"/>
+    </a>
+    <a href="https://github.com/HuyOnic/VietcombankBill">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=VietcombankBill"/>
+    </a>
+    <a href="https://github.com/HuyOnic/CoffeShop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=CoffeShop&theme=dracula"/>
+    </a>
+    <a href="https://github.com/HuyOnic/CoffeShop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=CoffeShop&theme=dracula"/>
+    </a>
+</div>
