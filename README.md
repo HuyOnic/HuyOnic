@@ -6,7 +6,7 @@
 </div>
 <h2 align=center>Side Project</h2>
 <div align="center">
-    <a href="https://github.com/theanh201/Direct-Message">
+    <a href="https://github.com/HuyOnic/Direct-Message">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=Direct-Message&theme=cobalt"/>
     </a>
     <a href="https://github.com/HuyOnic/Web-Detect-Object">
