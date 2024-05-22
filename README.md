@@ -27,4 +27,7 @@
     <a href="https://github.com/HuyOnic/Federated-Learning">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=Federated-Learning&theme=tokyonight"/>
     </a>
+    <a href="https://github.com/HuyOnic/Federated-Learning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=Federated-Learning&theme=tokyonight"/>
+    </a>
 </div>
