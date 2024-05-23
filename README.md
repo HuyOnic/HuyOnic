@@ -35,7 +35,11 @@
 <table align='center'>
   <tr>
     <th>Language</th>
-    <th>Age</th>
+    <th>
+        <a href="">
+            <img style='width:60px; height:60px' src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
+        </a>
+    </th>
     <th>City</th>
   </tr>
   <tr>
