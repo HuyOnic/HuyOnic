@@ -60,7 +60,7 @@
     </td>
     <td>
         <a href="">
-            <img style='width:100px; height:100px' src="https://i.pinimg.com/474x/cc/aa/c9/ccaac9b2ce19a131fa386c3b7cc0c923.jpg"/>
+            <img style='width:100px; height:100px' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsQj0hduxaEy__M-5Q7s8QxV9vXON9ML27BKcAyK57yA&s"/>
         </a>
     </td>
     <td>
@@ -70,7 +70,7 @@
     </td>
     <td>
         <a href="">
-            <img style='width:100px; height:100px' src="https://i.pinimg.com/474x/cc/aa/c9/ccaac9b2ce19a131fa386c3b7cc0c923.jpg"/>
+            <img style='width:100px; height:100px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/800px-Pandas_mark.svg.png"/>
         </a>
     </td>
       
