@@ -35,3 +35,7 @@
 <div style="border:2px solid #000 width:400px height:400px">
     <p>Hello</p>
 </div>
+<div style='border: 4px solid #f00; margin: 20px; float: left;
+            height: 180px; width: 240px;
+            border-radius: 50px; overflow: hidden;'>
+</div>
