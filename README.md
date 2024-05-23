@@ -110,7 +110,7 @@
     </td>
     <td>
         <a href="">
-            <img style='width:100px; height:100px' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0F3ZosGbgdBGnMWo7d0L1qafP83vqo-jhh8LwG41emw&s"/>
+            <img style='width:100px; height:100px' src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png"/>
         </a>
     </td>
       <td>
