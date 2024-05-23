@@ -42,7 +42,7 @@
     </td>
     <td>
         <a href="https://www.python.org/doc/">
-            <img style='width:60px; height:60px' src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png"/>
+            <img align="center" style='width:60px; height:60px' src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png"/>
         </a>
     </td>
   </tr>
@@ -50,11 +50,6 @@
     <td>AI/DS Framework</td>
     <td>25</td>
     <td>New York</td>
-  </tr>
-  <tr>
-    <td>Bob</td>
-    <td>30</td>
-    <td>San Francisco</td>
   </tr>
   <tr>
     <td>Web Framework</td>
