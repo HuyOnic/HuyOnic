@@ -92,12 +92,30 @@
     <td>Operating Systems</td>
     <td>
         <a href="">
-            <img style='width:100px; height:100px' src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png"/>
+            <img style='width:100px; height:100px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/2048px-Logo-ubuntu_cof-orange-hex.svg.png"/>
         </a>
     </td>
     <td>
         <a href="">
-            <img style='width:100px; height:100px' src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png"/>
+            <img style='width:100px; height:100px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/2048px-Fedora_logo.svg.png"/>
+        </a>
+    </td>
+  </tr>
+  <tr>
+    <td>Database</td>
+    <td>
+        <a href="">
+            <img style='width:100px; height:100px' src="https://assets-global.website-files.com/632d8bdfaa198525e29dd55e/641c1b4e02e8cc2d3f9b010f_mysql-database-web-development-computer-software-dolphin-3f2ef1a6723e0e7faa8ac845294f02a3.png"/>
+        </a>
+    </td>
+    <td>
+        <a href="">
+            <img style='width:100px; height:100px' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0F3ZosGbgdBGnMWo7d0L1qafP83vqo-jhh8LwG41emw&s"/>
+        </a>
+    </td>
+      <td>
+        <a href="">
+            <img style='width:100px; height:100px' src="https://w7.pngwing.com/pngs/441/460/png-transparent-postgresql-plain-wordmark-logo-icon-thumbnail.png"/>
         </a>
     </td>
   </tr>
