@@ -48,13 +48,29 @@
   </tr>
   <tr>
     <td>AI/DS Framework</td>
-    <td>25</td>
-    <td>New York</td>
+    <td>
+        <a href="">
+            <img src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png"/>
+        </a>
+    </td>
+    <td>
+        <a href="">
+            <img src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png"/>
+        </a>
+    </td>
   </tr>
   <tr>
     <td>Web Framework</td>
-    <td>35</td>
-    <td>Los Angeles</td>
+    <td>
+        <a href="">
+            <img src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png"/>
+        </a>
+    </td>
+    <td>
+        <a href="">
+            <img src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png"/>
+        </a>
+    </td>
   </tr>
 </table>
 
