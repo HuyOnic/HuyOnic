@@ -36,11 +36,15 @@
   <tr>
     <th>Language</th>
     <th>
-        <a href="">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
             <img style='width:60px; height:60px' src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
         </a>
     </th>
-    <th>City</th>
+    <th>
+        <a href="https://www.python.org/doc/">
+            <img style='width:60px; height:60px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"/>
+        </a>
+    </th>
   </tr>
   <tr>
     <td>Alice</td>
