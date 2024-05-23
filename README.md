@@ -79,12 +79,12 @@
     <td>Web Framework</td>
     <td>
         <a href="">
-            <img style='width:100px; height:100px' src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png"/>
+            <img style='width:100px; height:100px' src="https://banner2.cleanpng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg"/>
         </a>
     </td>
     <td>
         <a href="">
-            <img style='width:100px; height:100px' src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png"/>
+            <img style='width:100px; height:100px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
         </a>
     </td>
   </tr>
