@@ -50,7 +50,7 @@
     <td>AI/DS Framework</td>
     <td>
         <a href="">
-            <img src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png"/>
+            <img style='width:100px; height:100px' src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png"/>
         </a>
     </td>
     <td>
