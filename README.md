@@ -55,9 +55,25 @@
     </td>
     <td>
         <a href="">
-            <img style='width:100px; height:100px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>
+            <img style='width:90px; height:100px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>
         </a>
     </td>
+    <td>
+        <a href="">
+            <img style='width:100px; height:100px' src="https://i.pinimg.com/474x/cc/aa/c9/ccaac9b2ce19a131fa386c3b7cc0c923.jpg"/>
+        </a>
+    </td>
+    <td>
+        <a href="">
+            <img style='width:100px; height:100px' src="https://i.pinimg.com/474x/cc/aa/c9/ccaac9b2ce19a131fa386c3b7cc0c923.jpg"/>
+        </a>
+    </td>
+    <td>
+        <a href="">
+            <img style='width:100px; height:100px' src="https://i.pinimg.com/474x/cc/aa/c9/ccaac9b2ce19a131fa386c3b7cc0c923.jpg"/>
+        </a>
+    </td>
+      
   </tr>
   <tr>
     <td>Web Framework</td>
