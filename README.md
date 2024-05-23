@@ -32,10 +32,26 @@
     </a>
 </div>
 
-<div style="border:2px solid #000 width:400px height:400px">
-    <p>Hello</p>
-</div>
-<div style='border: 4px solid #f00; margin: 20px; float: left;
-            height: 180px; width: 240px;
-            border-radius: 50px; overflow: hidden;'>
-</div>
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Age</th>
+    <th>City</th>
+  </tr>
+  <tr>
+    <td>Alice</td>
+    <td>25</td>
+    <td>New York</td>
+  </tr>
+  <tr>
+    <td>Bob</td>
+    <td>30</td>
+    <td>San Francisco</td>
+  </tr>
+  <tr>
+    <td>Charlie</td>
+    <td>35</td>
+    <td>Los Angeles</td>
+  </tr>
+</table>
+
