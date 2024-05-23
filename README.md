@@ -50,6 +50,19 @@
     <td>AI/DS Framework</td>
     <td>
         <a href="">
+            <img style='width:100px; height:100px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png"/>
+        </a>
+    </td>
+    <td>
+        <a href="">
+            <img style='width:100px; height:100px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>
+        </a>
+    </td>
+  </tr>
+  <tr>
+    <td>Web Framework</td>
+    <td>
+        <a href="">
             <img style='width:100px; height:100px' src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png"/>
         </a>
     </td>
@@ -59,8 +72,8 @@
         </a>
     </td>
   </tr>
-  <tr>
-    <td>Web Framework</td>
+    <tr>
+    <td>Operating Systems</td>
     <td>
         <a href="">
             <img style='width:100px; height:100px' src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png"/>
