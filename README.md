@@ -34,20 +34,20 @@
 
 <table align='center'>
   <tr>
-    <th>Language</th>
-    <th>
+    <td>Language</td>
+    <td>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
             <img style='width:60px; height:60px' src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
         </a>
-    </th>
-    <th>
+    </td>
+    <td>
         <a href="https://www.python.org/doc/">
-            <img style='width:60px; height:60px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"/>
+            <img style='width:60px; height:60px' src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png"/>
         </a>
-    </th>
+    </td>
   </tr>
   <tr>
-    <td>Alice</td>
+    <td>AI/DS Framework</td>
     <td>25</td>
     <td>New York</td>
   </tr>
@@ -57,7 +57,7 @@
     <td>San Francisco</td>
   </tr>
   <tr>
-    <td>Charlie</td>
+    <td>Web Framework</td>
     <td>35</td>
     <td>Los Angeles</td>
   </tr>
