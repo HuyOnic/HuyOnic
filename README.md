@@ -32,9 +32,9 @@
     </a>
 </div>
 
-<table>
+<table align='center'>
   <tr>
-    <th>Name</th>
+    <th>Language</th>
     <th>Age</th>
     <th>City</th>
   </tr>
