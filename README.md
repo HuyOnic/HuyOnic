@@ -37,12 +37,12 @@
     <td>Language</td>
     <td>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-            <img style='width:60px; height:60px' src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
+            <img style='width:100px; height:100px' src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
         </a>
     </td>
     <td>
         <a href="https://www.python.org/doc/">
-            <img align="center" style='width:60px; height:60px' src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png"/>
+            <img align="center" style='width:100px; height:100px' src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png"/>
         </a>
     </td>
   </tr>
@@ -55,7 +55,7 @@
     </td>
     <td>
         <a href="">
-            <img src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png"/>
+            <img style='width:100px; height:100px' src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png"/>
         </a>
     </td>
   </tr>
@@ -63,12 +63,12 @@
     <td>Web Framework</td>
     <td>
         <a href="">
-            <img src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png"/>
+            <img style='width:100px; height:100px' src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png"/>
         </a>
     </td>
     <td>
         <a href="">
-            <img src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png"/>
+            <img style='width:100px; height:100px' src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png"/>
         </a>
     </td>
   </tr>
