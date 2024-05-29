@@ -7,13 +7,13 @@
 <h2 align=center>Side Project</h2>
 <div align="center">
     <a href="https://github.com/HuyOnic/Direct-Message">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=Direct-Message&theme=cobalt"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=Direct-Message&bg_color=40,02AABD,00CDAC"/>
     </a>
     <a href="https://github.com/HuyOnic/Web-Detect-Object">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=Web-Detect-Object&theme=cobalt"/>
     </a>
     <a href="https://github.com/HuyOnic/VietcombankBill">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=VietcombankBill&theme=gruvbox"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=ViebgtcombankBill&theme=gruvbox"/>
     </a>
     <a href="https://github.com/HuyOnic/CoffeShop">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=CoffeShop&theme=dracula"/>
