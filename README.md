@@ -14,7 +14,7 @@
     </a>
     <a href="https://github.com/HuyOnic/CoffeShop">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=CoffeShop&bg_color=40,FF61D2,FE9090"/>
-    </a>"/>
+    </a>
     </a>
     <a href="https://github.com/HuyOnic/HousePrice">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=HousePrice&bg_color=40,C33764,1D2671"/>
