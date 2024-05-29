@@ -35,7 +35,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=Federated-Learning&bg_color=40,C33764,1D2671/>
     </a>
 </div>
-<br/>
+<h1></h1>
 
 <table align='center'>
   <tr>
