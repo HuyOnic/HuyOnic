@@ -16,7 +16,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=ViebgtcombankBill&bg_color=40,FF61D2,FE9090"/>
     </a>
     <a href="https://github.com/HuyOnic/CoffeShop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=CoffeShop&theme=dracula"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=CoffeShop&bg_color=40,FF61D2,FE9090"/>
+    </a>"/>
     </a>
     <a href="https://github.com/HuyOnic/HousePrice">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=HousePrice&theme=merko"/>
