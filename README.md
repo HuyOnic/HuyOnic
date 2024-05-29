@@ -12,24 +12,21 @@
     <a href="https://github.com/HuyOnic/Web-Detect-Object">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=Web-Detect-Object&bg_color=40,EA8D8D,A890FE"/>
     </a>
-    <a href="https://github.com/HuyOnic/VietcombankBill">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=ViebgtcombankBill&bg_color=40,FF61D2,FE9090"/>
-    </a>
     <a href="https://github.com/HuyOnic/CoffeShop">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=CoffeShop&bg_color=40,FF61D2,FE9090"/>
     </a>"/>
     </a>
     <a href="https://github.com/HuyOnic/HousePrice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=HousePrice&theme=merko"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=HousePrice&bg_color=40,C33764,1D2671"/>
     </a>
     <a href="https://github.com/HuyOnic/Wyndham-Thanh-Thuy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=Wyndham-Thanh-Thuy&theme=onedark"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=Wyndham-Thanh-Thuy&bg_color=40,C33764,1D2671"/>
     </a>
     <a href="https://github.com/HuyOnic/Federated-Learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=Federated-Learning&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=Federated-Learning&bg_color=40,C33764,1D2671"/>
     </a>
     <a href="https://github.com/HuyOnic/Federated-Learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=Federated-Learning&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyOnic&repo=Federated-Learning&bg_color=40,C33764,1D2671/>
     </a>
 </div>
 
