@@ -110,6 +110,11 @@
             <img style='width:100px; height:100px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/2048px-Fedora_logo.svg.png"/>
         </a>
     </td>
+    <td>
+        <a href="">
+            <img style='width:100px; height:100px' src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png"/>
+        </a>
+    </td>
   </tr>
   <tr>
     <td>Database</td>
