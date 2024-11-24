@@ -1,5 +1,4 @@
 <h1 align="center">Welcome to my page</h1>
-<p align="left">My name is Huy. I will be a Machine Learning Engineer. Mathematic, Programing and AI/ML are MY Sol</p> <br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=HuyOnic&text_color=fff&hide=contribs,prs"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&bg_color=30,904e95,e96443&hide_title=true&text_color=fff"/>
