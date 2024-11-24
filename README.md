@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my page</h1>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=HuyOnic&text_color=fff&hide=contribs,prs"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=HuyOnic&text_color=fff&hide=contribs,prs&bg_color=30,904e95,e96443"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&bg_color=30,904e95,e96443&hide_title=true"/>
 </div>
 <h2 align=center>Side Project</h2>
